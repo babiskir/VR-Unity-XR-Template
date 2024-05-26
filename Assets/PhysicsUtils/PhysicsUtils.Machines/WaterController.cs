@@ -4,6 +4,7 @@ using System.Collections;
 //Controlls the water
 public class WaterController : MonoBehaviour
 {
+
     public static WaterController current;
 
     public bool isMoving;
